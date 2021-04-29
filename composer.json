@@ -1,0 +1,5 @@
+{
+    "require": {
+        "geekcom/phpjasper-laravel": "^1.1"
+    }
+}
