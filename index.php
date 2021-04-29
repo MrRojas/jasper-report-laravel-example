@@ -41,7 +41,6 @@ $options = [
 
 $jasper = new PHPJasper;
 $jasper->process($input,$output,$options)->execute();
-unlink($json); 
 ?>
 
 <br>
